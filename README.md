@@ -43,3 +43,5 @@ uvicorn main:app --reload --port 8000
 - Si Git no funciona: verificar `git config user.name` y `git config user.email`
 - Si necesitas cambiar el email: usar el email privado de GitHub desde Settings → Emails
 
+# Relfexion final
+- Esta semana aprendí qué es una API REST y cómo crear una con FastAPI. Logré instalar el entorno, ejecutar el servidor local y ver la documentación automática en /docs. Me pareció muy útil ver los endpoints funcionando desde el navegador y entender cómo se comunican las aplicaciones a través de HTTP.
